@@ -1,7 +1,7 @@
 ---
 applications:
 - path: .
-  name: node-hello-world-example
+  name: CD0201-e27-nodesample.
   buildpack: sdk-for-nodejs
   memory: 256M
   instances: 1
